@@ -12,3 +12,4 @@ C:\Users\user\Desktop\HelloworldAPP\obj\Debug\net10.0\refint\HelloworldAPP.dll
 C:\Users\user\Desktop\HelloworldAPP\obj\Debug\net10.0\HelloworldAPP.pdb
 C:\Users\user\Desktop\HelloworldAPP\obj\Debug\net10.0\HelloworldAPP.genruntimeconfig.cache
 C:\Users\user\Desktop\HelloworldAPP\obj\Debug\net10.0\ref\HelloworldAPP.dll
+C:\Users\user\Desktop\HelloworldAPP\obj\Debug\net10.0\HelloworldAPP.sourcelink.json
