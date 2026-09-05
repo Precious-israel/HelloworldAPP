@@ -1,6 +1,6 @@
 # Overview
 
-Hello WOorld Project using C#
+"Hello World" application in C# to familiarize myself with the .NET ecosystem, the C# syntax, and the overall workflow of creating, running, and version-controlling a console application.
 
 [Software Demo Video](https://youtu.be/your-video-id-here)
 
