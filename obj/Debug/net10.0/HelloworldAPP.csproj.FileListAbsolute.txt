@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\HelloworldAPP\bin\Debug\net10.0\HelloworldAPP.exe
+C:\Users\user\Desktop\HelloworldAPP\bin\Debug\net10.0\HelloworldAPP.deps.json
+C:\Users\user\Desktop\HelloworldAPP\bin\Debug\net10.0\HelloworldAPP.runtimeconfig.json
+C:\Users\user\Desktop\HelloworldAPP\bin\Debug\net10.0\HelloworldAPP.dll
+C:\Users\user\Desktop\HelloworldAPP\bin\Debug\net10.0\HelloworldAPP.pdb
+C:\Users\user\Desktop\HelloworldAPP\obj\Debug\net10.0\HelloworldAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HelloworldAPP\obj\Debug\net10.0\HelloworldAPP.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HelloworldAPP\obj\Debug\net10.0\HelloworldAPP.AssemblyInfo.cs
+C:\Users\user\Desktop\HelloworldAPP\obj\Debug\net10.0\HelloworldAPP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HelloworldAPP\obj\Debug\net10.0\HelloworldAPP.dll
+C:\Users\user\Desktop\HelloworldAPP\obj\Debug\net10.0\refint\HelloworldAPP.dll
+C:\Users\user\Desktop\HelloworldAPP\obj\Debug\net10.0\HelloworldAPP.pdb
+C:\Users\user\Desktop\HelloworldAPP\obj\Debug\net10.0\HelloworldAPP.genruntimeconfig.cache
+C:\Users\user\Desktop\HelloworldAPP\obj\Debug\net10.0\ref\HelloworldAPP.dll
